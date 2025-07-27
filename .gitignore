@@ -1,0 +1,38 @@
+# compiled / optimized Python filesByte
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# R history / data
+.Rhistory
+.RData
+.Rproj.user/
+
+# Data files (if you >t want raw data checked in)don
+data/
+*.csv
+*.tsv
+*.loom
+*.h5
+
+# Logs and reports
+*.log
+report.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*~
+
