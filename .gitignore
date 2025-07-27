@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore all files with .bam extension
+*.bam
+
+# Ignore all files in the data directory
+data/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
